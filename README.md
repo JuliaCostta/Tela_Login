@@ -9,5 +9,5 @@ Tela de Login criada em HTML 5 e CSS
 - Possui mensagens de erros quando os campos são preenchidos de maneira incorreta o quando não são preenchidos;
 - Formulário centralizado e espaçamentos que preenchem toda a tela;
 
-![Texto alternativo](images/tela-login.png)
+
 
